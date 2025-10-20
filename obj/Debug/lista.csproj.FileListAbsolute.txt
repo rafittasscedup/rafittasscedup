@@ -1,0 +1,11 @@
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\bin\Debug\lista.exe.config
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\bin\Debug\lista.exe
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\bin\Debug\lista.pdb
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\obj\Debug\lista.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\obj\Debug\lista.Form1.resources
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\obj\Debug\lista.Properties.Resources.resources
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\obj\Debug\lista.csproj.GenerateResource.cache
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\obj\Debug\lista.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\obj\Debug\lista.exe
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\obj\Debug\lista.pdb
+C:\Users\ALUNO\Downloads\WindowsForms38-main\WindowsForms38-main\lista\obj\Debug\lista.exe.config
