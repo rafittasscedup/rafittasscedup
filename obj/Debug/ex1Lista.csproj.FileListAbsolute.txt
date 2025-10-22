@@ -1,0 +1,11 @@
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\bin\Debug\ex1Lista.exe.config
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\bin\Debug\ex1Lista.exe
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\bin\Debug\ex1Lista.pdb
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\obj\Debug\ex1Lista.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\obj\Debug\ex1Lista.Form1.resources
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\obj\Debug\ex1Lista.Properties.Resources.resources
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\obj\Debug\ex1Lista.csproj.GenerateResource.cache
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\obj\Debug\ex1Lista.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\obj\Debug\ex1Lista.exe
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\obj\Debug\ex1Lista.pdb
+C:\Users\ALUNO\Music\rafittass - 3°8\ativs\ex1Lista\ex1Lista\obj\Debug\ex1Lista.exe.config

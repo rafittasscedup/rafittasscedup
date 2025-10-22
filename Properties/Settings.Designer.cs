@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace lista.Properties
+namespace ex1Lista.Properties
 {
 
 
